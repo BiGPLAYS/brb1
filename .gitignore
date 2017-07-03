@@ -43,8 +43,13 @@ Thumbs.db
 /DerivedDataCache
 /Intermediate
  /Saved
+<<<<<<< HEAD
 Fitality/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 Fitality/Saved/Autosaves/PackageRestoreData.json
 Fitality/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 Fitality/Saved/Autosaves/PackageRestoreData.json
+=======
+Fitality/Intermediate/CachedAssetRegistry.bin
+Fitality/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+>>>>>>> 9689000c2ffa711c52e50f74e5390c38f0fdc86b
 Fitality/Intermediate/CachedAssetRegistry.bin
